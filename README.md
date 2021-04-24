@@ -212,6 +212,7 @@ Implementing autocomplete search feature using elasticsearch. The data being use
 
 [AutoComplete with ElasticSearch - part 4](https://blog.mimacom.com/autocomplete-elasticsearch-part4/)
 
+[Ben Awad Implementation of ElasticSearch](https://www.youtube.com/watch?v=mPuyU4kdlVE&t=307s)
 
 ## Improvements
 
